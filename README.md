@@ -1,5 +1,7 @@
 # LedgerFlow
 
+[![CI](https://github.com/zixuanxu-dev/ledgerflow/actions/workflows/ci.yml/badge.svg)](https://github.com/zixuanxu-dev/ledgerflow/actions/workflows/ci.yml)
+
 **Human-controlled document collection and workflow automation.**
 
 LedgerFlow is a portfolio-grade operations application for firms that collect recurring invoices,
