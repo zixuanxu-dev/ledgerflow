@@ -1,0 +1,8 @@
+BANK STATEMENT
+Statement Period: 2026-08
+Account Number: ****1842
+
+Opening Balance: $17,320.10 USD
+Deposits: $4,822.40 USD
+Withdrawals: $3,200.00 USD
+Ending Balance: $18,942.50 USD

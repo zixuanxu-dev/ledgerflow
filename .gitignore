@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Runtime data
+backend/data/
+backend/uploads/
+backend/test-uploads/
+*.db
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment and editors
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Portfolio build intermediates
+portfolio/tmp/
